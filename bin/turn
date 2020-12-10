@@ -9,5 +9,3 @@ display_board(board)
 puts "What is your move?"
 
 turn(board)
-
-move(board, user_input, value = "X")
